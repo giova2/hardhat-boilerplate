@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/hardhat-giova-token/static/css/main.da2e0916.css",
-    "main.js": "/hardhat-giova-token/static/js/main.c7559cdd.js",
+    "main.js": "/hardhat-giova-token/static/js/main.3b2f701d.js",
     "index.html": "/hardhat-giova-token/index.html",
     "main.da2e0916.css.map": "/hardhat-giova-token/static/css/main.da2e0916.css.map",
-    "main.c7559cdd.js.map": "/hardhat-giova-token/static/js/main.c7559cdd.js.map"
+    "main.3b2f701d.js.map": "/hardhat-giova-token/static/js/main.3b2f701d.js.map"
   },
   "entrypoints": [
     "static/css/main.da2e0916.css",
-    "static/js/main.c7559cdd.js"
+    "static/js/main.3b2f701d.js"
   ]
 }
